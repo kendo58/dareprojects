@@ -114,6 +114,16 @@ exit and then :
 
 paste in the PHP script to connect to mysql database
 
+![webpage]
+(https://acbucket487384783.s3.amazonaws.com/Screen+Shot+2021-06-12+at+7.17.20+AM.png)
+
+![webpabe]
+(https://acbucket487384783.s3.amazonaws.com/Screen+Shot+2021-06-12+at+7.30.29+AM.png)
+
+(https://acbucket487384783.s3.amazonaws.com/Screen+Shot+2021-06-12+at+7.43.18+AM.png)
+
+(https://acbucket487384783.s3.amazonaws.com/Screen+Shot+2021-06-12+at+7.45.43+AM.png)
+
 
 
 
